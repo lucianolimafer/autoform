@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "autoform",
+    "slug": "autoform",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "autoform"
+}
